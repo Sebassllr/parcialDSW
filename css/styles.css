@@ -1,0 +1,19 @@
+#tablero img{
+	visibility: hidden;
+}	
+
+#tablero div{
+
+	padding: 4px;
+	border-width: 5px;
+	margin: 8px;
+}
+.row{
+	display: flex;
+}
+.square{
+	background-color: indigo;
+	margin: 10px;
+	width: 7%;
+	height: 13%;
+}
